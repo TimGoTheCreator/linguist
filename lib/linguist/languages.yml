@@ -4022,6 +4022,7 @@ Kusto:
   language_id: 225697190
 Kobra:
   type: programming
+  color: "#FFD300"
   extensions:
   - ".cb"
   tm_scope: source.kobra
