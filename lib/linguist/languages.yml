@@ -4020,6 +4020,12 @@ Kusto:
   tm_scope: source.kusto
   ace_mode: text
   language_id: 225697190
+Kobra:
+  type: programming
+  extensions:
+  - ".cb"
+  tm_scope: source.kobra
+  ace_mode: text
 LFE:
   type: programming
   color: "#4C3023"
