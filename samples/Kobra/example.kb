@@ -1,0 +1,15 @@
+int main() {
+  int var;
+  println("Hello world");
+
+  input("Enter stuff: ", var);
+  println(var);
+
+  print("This one has no newline!");
+
+  // Hope the comments work this day! 
+  string var2;
+  inputln("This one is an input with NL: ", var2);
+
+  print("Told ya");
+}
