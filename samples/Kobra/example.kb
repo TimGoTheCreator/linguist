@@ -12,4 +12,5 @@ int main() {
   inputln("This one is an input with NL: ", var2);
 
   print("Told ya");
+  exit(0);
 }
